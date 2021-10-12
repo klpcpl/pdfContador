@@ -1,0 +1,6 @@
+
+
+*.pdf
+pdftk/
+report.txt
+temp/
